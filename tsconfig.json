@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "types": [
+      "@types/mocha",
+      "@types/chai",
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ],
+}
